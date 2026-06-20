@@ -22,7 +22,7 @@
 10. [Problemas encontrados y soluciones](#problemas-encontrados-y-soluciones)
 11. [Estructura del repositorio](#estructura-del-repositorio)
 12. [Documentación técnica](#documentación-técnica)
-13. [Reel de Instagram](#reel-de-instagram)
+13. [Videos](#videos)
 14. [Licencia y créditos](#licencia-y-créditos)
 
 > 📖 Guía de instalación detallada para principiantes: **[`docs/INSTALACION.md`](docs/INSTALACION.md)**
@@ -371,11 +371,19 @@ a sus autores; las licencias se respetan según la sección 3.6 de la convocator
 
 ---
 
-## Reel de Instagram
+## Videos
 
-📸 Reel con lo más destacado del proyecto:
+🎬 **Video demo (YouTube)** — análisis del partido con detección, tracking,
+segmentación SAM 3 y vista cenital, con explicación del enfoque:
+
+> https://youtu.be/OMu6HCIbjTk
+
+📸 **Reel de Instagram** — lo más destacado del proyecto:
 
 > https://www.instagram.com/reel/DZy7i7DozM0NG7exCNtJvANVCCuxD40U8VHsyM0/?igsh=MWloZTE5NHhqanJ3eg==
+
+> El video analizado completo (`partido_analizado.mp4`, 144 MB) no se versiona en
+> GitHub por su tamaño; la versión presentada está en el enlace de YouTube de arriba.
 
 ---
 
