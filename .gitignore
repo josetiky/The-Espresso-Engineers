@@ -1,0 +1,32 @@
+# Entornos y caché
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Salidas de entrenamiento e inferencia (pesadas)
+runs/
+output/*_TEST*
+
+# Videos (GitHub rechaza > 100 MB). Mejor enlazarlos (YouTube/Drive) en el README.
+# El de entrada pesa 206 MB y el analizado 144 MB → NO pueden ir a git.
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.m4v
+
+# Respaldos de modelos (no hacen falta en el repo)
+*_backup_*.pt
+
+# Pesos grandes — usa Git LFS o el enlace del repositorio oficial
+# (descomenta si no quieres versionarlos)
+# *.pt
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Secretos / API keys — NUNCA subir
+.env
+*.key
+secrets.*

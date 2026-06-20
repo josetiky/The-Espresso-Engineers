@@ -1,0 +1,552 @@
+{
+  "balon": {
+    "distancia_total_m": 10.2,
+    "velocidad_maxima_kmh": 20.69,
+    "posiciones_totales": 1891
+  },
+  "posesion": {
+    "equipo_azul": 8.8,
+    "equipo_rojo": 44.8,
+    "sin_posesion": 46.4
+  },
+  "robots": {
+    "1": {
+      "distancia_m": 4.44,
+      "velocidad_max_kmh": 9.0,
+      "equipo": 0
+    },
+    "2": {
+      "distancia_m": 2.87,
+      "velocidad_max_kmh": 9.65,
+      "equipo": 0
+    },
+    "3": {
+      "distancia_m": 10.04,
+      "velocidad_max_kmh": 9.88,
+      "equipo": 1
+    },
+    "4": {
+      "distancia_m": 2.46,
+      "velocidad_max_kmh": 7.33,
+      "equipo": 1
+    }
+  },
+  "eventos_resumen": {
+    "intercepcion": 14,
+    "tiro_a_gol": 17,
+    "pase": 12
+  },
+  "eventos": [
+    {
+      "tipo": "intercepcion",
+      "frame": 5,
+      "tiempo_seg": 0.17,
+      "equipo": 0,
+      "robot_origen": 3,
+      "robot_destino": 1,
+      "posicion_m": [
+        0.45,
+        1.66
+      ]
+    },
+    {
+      "tipo": "intercepcion",
+      "frame": 14,
+      "tiempo_seg": 0.47,
+      "equipo": 1,
+      "robot_origen": 1,
+      "robot_destino": 3,
+      "posicion_m": [
+        0.65,
+        1.74
+      ]
+    },
+    {
+      "tipo": "tiro_a_gol",
+      "frame": 14,
+      "tiempo_seg": 0.47,
+      "equipo": 1,
+      "robot_origen": 3,
+      "posicion_m": [
+        0.56,
+        1.75
+      ]
+    },
+    {
+      "tipo": "intercepcion",
+      "frame": 18,
+      "tiempo_seg": 0.6,
+      "equipo": 0,
+      "robot_origen": 3,
+      "robot_destino": 2,
+      "posicion_m": [
+        0.42,
+        1.82
+      ]
+    },
+    {
+      "tipo": "tiro_a_gol",
+      "frame": 127,
+      "tiempo_seg": 4.23,
+      "equipo": 0,
+      "robot_origen": 1,
+      "posicion_m": [
+        0.84,
+        2.39
+      ]
+    },
+    {
+      "tipo": "intercepcion",
+      "frame": 129,
+      "tiempo_seg": 4.3,
+      "equipo": 1,
+      "robot_origen": 1,
+      "robot_destino": 3,
+      "posicion_m": [
+        0.51,
+        2.23
+      ]
+    },
+    {
+      "tipo": "tiro_a_gol",
+      "frame": 207,
+      "tiempo_seg": 6.9,
+      "equipo": 1,
+      "robot_origen": 3,
+      "posicion_m": [
+        0.64,
+        2.21
+      ]
+    },
+    {
+      "tipo": "tiro_a_gol",
+      "frame": 263,
+      "tiempo_seg": 8.77,
+      "equipo": 1,
+      "robot_origen": 3,
+      "posicion_m": [
+        0.73,
+        2.25
+      ]
+    },
+    {
+      "tipo": "tiro_a_gol",
+      "frame": 380,
+      "tiempo_seg": 12.67,
+      "equipo": 1,
+      "robot_origen": 3,
+      "posicion_m": [
+        0.65,
+        2.27
+      ]
+    },
+    {
+      "tipo": "tiro_a_gol",
+      "frame": 522,
+      "tiempo_seg": 17.4,
+      "equipo": 1,
+      "robot_origen": 3,
+      "posicion_m": [
+        0.62,
+        2.26
+      ]
+    },
+    {
+      "tipo": "tiro_a_gol",
+      "frame": 1090,
+      "tiempo_seg": 36.33,
+      "equipo": 1,
+      "robot_origen": 3,
+      "posicion_m": [
+        0.4,
+        1.94
+      ]
+    },
+    {
+      "tipo": "pase",
+      "frame": 1091,
+      "tiempo_seg": 36.37,
+      "equipo": 1,
+      "robot_origen": 3,
+      "robot_destino": 4,
+      "posicion_m": [
+        0.15,
+        1.72
+      ]
+    },
+    {
+      "tipo": "intercepcion",
+      "frame": 1100,
+      "tiempo_seg": 36.67,
+      "equipo": 0,
+      "robot_origen": 4,
+      "robot_destino": 1,
+      "posicion_m": [
+        0.22,
+        1.5
+      ]
+    },
+    {
+      "tipo": "intercepcion",
+      "frame": 1103,
+      "tiempo_seg": 36.77,
+      "equipo": 1,
+      "robot_origen": 1,
+      "robot_destino": 4,
+      "posicion_m": [
+        0.14,
+        1.69
+      ]
+    },
+    {
+      "tipo": "intercepcion",
+      "frame": 1104,
+      "tiempo_seg": 36.8,
+      "equipo": 0,
+      "robot_origen": 4,
+      "robot_destino": 1,
+      "posicion_m": [
+        0.23,
+        1.51
+      ]
+    },
+    {
+      "tipo": "intercepcion",
+      "frame": 1128,
+      "tiempo_seg": 37.6,
+      "equipo": 1,
+      "robot_origen": 1,
+      "robot_destino": 4,
+      "posicion_m": [
+        0.51,
+        1.41
+      ]
+    },
+    {
+      "tipo": "tiro_a_gol",
+      "frame": 1138,
+      "tiempo_seg": 37.93,
+      "equipo": 1,
+      "robot_origen": 4,
+      "posicion_m": [
+        0.63,
+        1.26
+      ]
+    },
+    {
+      "tipo": "pase",
+      "frame": 1152,
+      "tiempo_seg": 38.4,
+      "equipo": 1,
+      "robot_origen": 4,
+      "robot_destino": 3,
+      "posicion_m": [
+        0.18,
+        1.6
+      ]
+    },
+    {
+      "tipo": "pase",
+      "frame": 1153,
+      "tiempo_seg": 38.43,
+      "equipo": 1,
+      "robot_origen": 3,
+      "robot_destino": 4,
+      "posicion_m": [
+        0.27,
+        1.65
+      ]
+    },
+    {
+      "tipo": "pase",
+      "frame": 1159,
+      "tiempo_seg": 38.63,
+      "equipo": 1,
+      "robot_origen": 4,
+      "robot_destino": 3,
+      "posicion_m": [
+        0.19,
+        1.68
+      ]
+    },
+    {
+      "tipo": "pase",
+      "frame": 1160,
+      "tiempo_seg": 38.67,
+      "equipo": 1,
+      "robot_origen": 3,
+      "robot_destino": 4,
+      "posicion_m": [
+        0.3,
+        1.56
+      ]
+    },
+    {
+      "tipo": "tiro_a_gol",
+      "frame": 1287,
+      "tiempo_seg": 42.9,
+      "equipo": 1,
+      "robot_origen": 4,
+      "posicion_m": [
+        0.51,
+        1.47
+      ]
+    },
+    {
+      "tipo": "pase",
+      "frame": 1289,
+      "tiempo_seg": 42.97,
+      "equipo": 1,
+      "robot_origen": 4,
+      "robot_destino": 3,
+      "posicion_m": [
+        0.22,
+        1.47
+      ]
+    },
+    {
+      "tipo": "pase",
+      "frame": 1337,
+      "tiempo_seg": 44.57,
+      "equipo": 1,
+      "robot_origen": 3,
+      "robot_destino": 4,
+      "posicion_m": [
+        0.36,
+        1.68
+      ]
+    },
+    {
+      "tipo": "pase",
+      "frame": 1343,
+      "tiempo_seg": 44.77,
+      "equipo": 1,
+      "robot_origen": 4,
+      "robot_destino": 3,
+      "posicion_m": [
+        0.23,
+        1.56
+      ]
+    },
+    {
+      "tipo": "pase",
+      "frame": 1344,
+      "tiempo_seg": 44.8,
+      "equipo": 1,
+      "robot_origen": 3,
+      "robot_destino": 4,
+      "posicion_m": [
+        0.33,
+        1.67
+      ]
+    },
+    {
+      "tipo": "pase",
+      "frame": 1345,
+      "tiempo_seg": 44.83,
+      "equipo": 1,
+      "robot_origen": 4,
+      "robot_destino": 3,
+      "posicion_m": [
+        0.21,
+        1.57
+      ]
+    },
+    {
+      "tipo": "pase",
+      "frame": 1347,
+      "tiempo_seg": 44.9,
+      "equipo": 1,
+      "robot_origen": 3,
+      "robot_destino": 4,
+      "posicion_m": [
+        0.29,
+        1.68
+      ]
+    },
+    {
+      "tipo": "pase",
+      "frame": 1348,
+      "tiempo_seg": 44.93,
+      "equipo": 1,
+      "robot_origen": 4,
+      "robot_destino": 3,
+      "posicion_m": [
+        0.19,
+        1.57
+      ]
+    },
+    {
+      "tipo": "tiro_a_gol",
+      "frame": 1548,
+      "tiempo_seg": 51.6,
+      "equipo": 1,
+      "robot_origen": 3,
+      "posicion_m": [
+        0.41,
+        1.92
+      ]
+    },
+    {
+      "tipo": "tiro_a_gol",
+      "frame": 1691,
+      "tiempo_seg": 56.37,
+      "equipo": 1,
+      "robot_origen": 3,
+      "posicion_m": [
+        0.79,
+        2.23
+      ]
+    },
+    {
+      "tipo": "intercepcion",
+      "frame": 1707,
+      "tiempo_seg": 56.9,
+      "equipo": 0,
+      "robot_origen": 3,
+      "robot_destino": 1,
+      "posicion_m": [
+        1.01,
+        2.06
+      ]
+    },
+    {
+      "tipo": "tiro_a_gol",
+      "frame": 1760,
+      "tiempo_seg": 58.67,
+      "equipo": 0,
+      "robot_origen": 1,
+      "posicion_m": [
+        0.73,
+        2.29
+      ]
+    },
+    {
+      "tipo": "tiro_a_gol",
+      "frame": 1843,
+      "tiempo_seg": 61.43,
+      "equipo": 0,
+      "robot_origen": 1,
+      "posicion_m": [
+        0.79,
+        2.27
+      ]
+    },
+    {
+      "tipo": "intercepcion",
+      "frame": 1870,
+      "tiempo_seg": 62.33,
+      "equipo": 1,
+      "robot_origen": 1,
+      "robot_destino": 3,
+      "posicion_m": [
+        0.45,
+        2.18
+      ]
+    },
+    {
+      "tipo": "tiro_a_gol",
+      "frame": 1994,
+      "tiempo_seg": 66.47,
+      "equipo": 1,
+      "robot_origen": 3,
+      "posicion_m": [
+        0.56,
+        1.99
+      ]
+    },
+    {
+      "tipo": "intercepcion",
+      "frame": 2005,
+      "tiempo_seg": 66.83,
+      "equipo": 0,
+      "robot_origen": 3,
+      "robot_destino": 1,
+      "posicion_m": [
+        0.48,
+        1.81
+      ]
+    },
+    {
+      "tipo": "intercepcion",
+      "frame": 2048,
+      "tiempo_seg": 68.27,
+      "equipo": 1,
+      "robot_origen": 1,
+      "robot_destino": 3,
+      "posicion_m": [
+        0.55,
+        2.01
+      ]
+    },
+    {
+      "tipo": "tiro_a_gol",
+      "frame": 2273,
+      "tiempo_seg": 75.77,
+      "equipo": 1,
+      "robot_origen": 3,
+      "posicion_m": [
+        0.62,
+        2.13
+      ]
+    },
+    {
+      "tipo": "tiro_a_gol",
+      "frame": 2784,
+      "tiempo_seg": 92.8,
+      "equipo": 1,
+      "robot_origen": 3,
+      "posicion_m": [
+        0.36,
+        2.06
+      ]
+    },
+    {
+      "tipo": "intercepcion",
+      "frame": 2955,
+      "tiempo_seg": 98.5,
+      "equipo": 0,
+      "robot_origen": 3,
+      "robot_destino": 1,
+      "posicion_m": [
+        0.25,
+        1.79
+      ]
+    },
+    {
+      "tipo": "tiro_a_gol",
+      "frame": 3044,
+      "tiempo_seg": 101.47,
+      "equipo": 0,
+      "robot_origen": 1,
+      "posicion_m": [
+        0.27,
+        1.77
+      ]
+    },
+    {
+      "tipo": "intercepcion",
+      "frame": 3127,
+      "tiempo_seg": 104.23,
+      "equipo": 1,
+      "robot_origen": 1,
+      "robot_destino": 3,
+      "posicion_m": [
+        0.17,
+        1.65
+      ]
+    }
+  ],
+  "red_de_pases": [
+    {
+      "origen": 3,
+      "destino": 4,
+      "pases": 6
+    },
+    {
+      "origen": 4,
+      "destino": 3,
+      "pases": 6
+    }
+  ]
+}

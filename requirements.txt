@@ -1,0 +1,26 @@
+# Copa FutBotMX — Dependencias
+# Instalar con: pip install -r requirements.txt
+
+# Core CV & DL
+torch>=2.3.0
+torchvision>=0.18.0
+
+# Ultralytics (YOLO + SAM)
+ultralytics>=8.3.0
+
+# Supervision (Tracking, Anotadores, process_video)
+supervision>=0.21.0
+
+# Visión clásica
+opencv-python>=4.9.0
+numpy>=1.26.0
+
+# ML / Clustering (TeamAssigner)
+scikit-learn>=1.4.0
+
+# Visualizaciones
+matplotlib>=3.8.0
+
+# Utilidades
+Pillow>=10.0.0
+tqdm>=4.66.0

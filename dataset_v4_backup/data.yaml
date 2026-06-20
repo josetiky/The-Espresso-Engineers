@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['22', 'Robot', 'pelota']
+
+roboflow:
+  workspace: joses-workspace-crywu
+  project: copafutbot-5lyab
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/joses-workspace-crywu/copafutbot-5lyab/dataset/4
